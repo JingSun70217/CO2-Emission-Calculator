@@ -4,7 +4,7 @@ This program is a command line tool that returns the amount of CO2-equivalent th
 
 # Installation
 
-Language: JAVA // test connection!!!!
+Language: JAVA // 
 
 Version: JDK1.8.0
 
