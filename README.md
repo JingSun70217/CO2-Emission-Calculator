@@ -1,4 +1,4 @@
-﻿# CO2 emission calculator
+﻿# CO2 Emission Calculator
 
 This program is a command line tool that returns the amount of CO2-equivalent that will be caused when traveling a given distance using a given transportation method.
 
