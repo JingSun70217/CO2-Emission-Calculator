@@ -21,7 +21,7 @@ The test program of this calculator is `TestCO2Calculator.java` . Please find it
 
 
 # Compilation
-Open your command-line interpreter, change directory to navigate to the folder `co2_calculator_prj`. 
+Open command-line interpreter, change directory to navigate to the folder `co2_calculator_prj`. 
 
 Given commands `mvn compile` to compile Java code. 
 
